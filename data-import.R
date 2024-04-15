@@ -9,8 +9,8 @@ library(haven)
 # 1) Get public dataset, extracted from a git repository
 
 # (to be executed in the Terminal)
-git clone https://github.com/phuse-org/phuse-scripts.git
-mkdir data/new && cp -R ./phuse-scripts/data/sdtm/cdiscpilot01/*.xpt ./data
+# git clone https://github.com/phuse-org/phuse-scripts.git
+# mkdir data && cp -R ./phuse-scripts/data/sdtm/cdiscpilot01/*.xpt ./data
 
 # 2) Create dummy data of a previous batch
 
