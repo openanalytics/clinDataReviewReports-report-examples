@@ -2,3 +2,4 @@
 *
 # except R scripts
 !*.R
+!README.md
